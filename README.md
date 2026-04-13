@@ -16,3 +16,6 @@ This project is an interactive Excel dashboard designed to track and analyze sal
 1. Regional Hub: Gauteng consistently leads in revenue suggesting a higher concentration of corporate clients
 2. Product Focus: High Value electronics electronics like Laptops drive more revenue than high volume furniture items.
 3. Growth: Q1 showed a steady upward trend in sales across all categories
+
+# Screenshots
+Refer to the IMAGES Folder
